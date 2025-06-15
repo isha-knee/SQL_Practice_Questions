@@ -12,7 +12,7 @@ This repo contains my solutions to various SQL problems I’ve been practicing a
 
 ## 🧰 Tools & Environment
 
-- SQL Engine: [e.g., MySQL / PostgreSQL / SQLite / BigQuery]  
-- IDE: [e.g., DBeaver / pgAdmin / VS Code / Jupyter Notebook]  
-- Practice Platforms: [e.g., LeetCode, HackerRank, StrataScratch, Mode Analytics]  
+- SQL Engine: [e.g.,MySQL / PostgreSQL / MS SQL Server]  
+- IDE: [e.g.,pgAdmin / VS Code / Jupyter Notebook]  
+- Practice Platforms: [e.g., LeetCode, HackerRank, StrataScratch, DataLemur]  
 - Status: 💡 Actively Updating
