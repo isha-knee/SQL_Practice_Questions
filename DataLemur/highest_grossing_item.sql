@@ -10,6 +10,12 @@ user_id	              integer
 spend	                decimal
 transaction_date	    timestamp
 
+--products Table:
+Column 	              Type
+product_id	          integer
+product_category	    string
+product_name	        string
+
 WITH highest_rank AS
 (SELECT category,product,SUM(spend) AS total_spend,
 RANK() OVER (PARTITION BY category ORDER BY SUM(spend) DESC) as ranking
